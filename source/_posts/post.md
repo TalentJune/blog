@@ -31,7 +31,7 @@ hexo g 编译
 hexo s 本地部署
 hexo d 上传
 
-## 写给Coke看关于代码上传github的教程
+<!-- ## 写给Coke看关于代码上传github的教程
 这里说的不是部署，部署指的的是单独上传.depoly_git文件夹，这里指的上传是上传整个文件夹到另外的仓库。首先按照原来的操作，把网站部署好，或者编译好在保存所有文件之后，才用进行这一步。
 <img src="/img/post/tutorial.png" width="50%" height="50%">
 1.点击左侧source control
@@ -40,7 +40,7 @@ hexo d 上传
 4.点击commit，然后点击sysn changes之后，就可以在github上看到你的更新了。
 
 ## 关于如何从github中拉取
-这里直接写最简单的方法吧，直接点进来[下载](https://github.com/TalentJune/blog)就好啦。但是由于node_modules文件夹里的文件太多辣，所以没有把它上传到GitHub上，所以尼还要从之前的安装包里，把node_modeules移到下载的文件夹里去。
+这里直接写最简单的方法吧，直接点进来[下载](https://github.com/TalentJune/blog)就好啦。但是由于node_modules文件夹里的文件太多辣，所以没有把它上传到GitHub上，所以尼还要从之前的安装包里，把node_modeules移到下载的文件夹里去。 -->
 
 
 <audio src="\bgm\fallinlove.mp3" controls title="恋爱循环" autoplay="true" loop="true"></audio>
